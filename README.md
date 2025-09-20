@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Foodiez - Online Food Ordering System
 
 A comprehensive food ordering system built with Node.js, Express, React, and MongoDB.
@@ -263,3 +264,6 @@ This project is licensed under the MIT License.
 ## Support
 
 For support or questions, please open an issue in the repository.
+=======
+# Food_order
+>>>>>>> 8c0e72eb265998da5b21852567075c2829e65a25
